@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Learn Build &amp; Break!</title>
-    <link>https://abhibundela.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Learn Build &amp; Break!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-      <atom:link href="https://abhibundela.com/tags/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
         <title>Bugbounty</title>
-        <link>https://abhibundela.com/tags/bugbounty/</link>
+        <link>http://localhost:1313/tags/bugbounty/</link>
         <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
-        <guid>https://abhibundela.com/tags/bugbounty/</guid>
+        <guid>http://localhost:1313/tags/bugbounty/</guid>
         <description></description>
       </item>
     
       <item>
         <title>Dmarc</title>
-        <link>https://abhibundela.com/tags/dmarc/</link>
+        <link>http://localhost:1313/tags/dmarc/</link>
         <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
-        <guid>https://abhibundela.com/tags/dmarc/</guid>
+        <guid>http://localhost:1313/tags/dmarc/</guid>
         <description></description>
       </item>
     
       <item>
         <title>Learning</title>
-        <link>https://abhibundela.com/tags/learning/</link>
+        <link>http://localhost:1313/tags/learning/</link>
         <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
-        <guid>https://abhibundela.com/tags/learning/</guid>
+        <guid>http://localhost:1313/tags/learning/</guid>
         <description></description>
       </item>
     

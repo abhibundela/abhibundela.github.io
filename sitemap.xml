@@ -3,28 +3,28 @@
   
     
       <url>
-        <loc>https://abhibundela.com/2018/04/10/how-i-broke-into-google-issue-tracker/</loc>
+        <loc>http://localhost:1313/2018/04/10/how-i-broke-into-google-issue-tracker/</loc>
         <lastmod>2018-04-10T00:00:00+00:00</lastmod>
       </url>
     
   
     
       <url>
-        <loc>https://abhibundela.com/2018/04/03/hey-organisations-dont-underestimate-dmarc-policy/</loc>
+        <loc>http://localhost:1313/2018/04/03/hey-organisations-dont-underestimate-dmarc-policy/</loc>
         <lastmod>2018-04-03T00:00:00+00:00</lastmod>
       </url>
     
   
     
       <url>
-        <loc>https://abhibundela.com/2017/06/19/little-experience-in-bugbounty-hunting/</loc>
+        <loc>http://localhost:1313/2017/06/19/little-experience-in-bugbounty-hunting/</loc>
         <lastmod>2017-06-19T00:00:00+00:00</lastmod>
       </url>
     
   
     
       <url>
-        <loc>https://abhibundela.com/tags/bugbounty/</loc>
+        <loc>http://localhost:1313/tags/bugbounty/</loc>
         <lastmod>2018-04-10T00:00:00+00:00</lastmod>
         <priority>0</priority>
       </url>
@@ -32,13 +32,13 @@
   
     
       <url>
-        <loc>https://abhibundela.com/categories/</loc>
+        <loc>http://localhost:1313/categories/</loc>
       </url>
     
   
     
       <url>
-        <loc>https://abhibundela.com/tags/dmarc/</loc>
+        <loc>http://localhost:1313/tags/dmarc/</loc>
         <lastmod>2018-04-03T00:00:00+00:00</lastmod>
         <priority>0</priority>
       </url>
@@ -46,14 +46,14 @@
   
     
       <url>
-        <loc>https://abhibundela.com/</loc>
+        <loc>http://localhost:1313/</loc>
         <lastmod>2018-04-10T00:00:00+00:00</lastmod>
       </url>
     
   
     
       <url>
-        <loc>https://abhibundela.com/tags/learning/</loc>
+        <loc>http://localhost:1313/tags/learning/</loc>
         <lastmod>2017-06-19T00:00:00+00:00</lastmod>
         <priority>0</priority>
       </url>
@@ -61,7 +61,7 @@
   
     
       <url>
-        <loc>https://abhibundela.com/posts/</loc>
+        <loc>http://localhost:1313/posts/</loc>
         <lastmod>2018-04-10T00:00:00+00:00</lastmod>
       </url>
     
@@ -70,7 +70,7 @@
   
     
       <url>
-        <loc>https://abhibundela.com/categories/security/</loc>
+        <loc>http://localhost:1313/categories/security/</loc>
         <lastmod>2018-04-10T00:00:00+00:00</lastmod>
         <priority>0</priority>
       </url>
@@ -78,7 +78,7 @@
   
     
       <url>
-        <loc>https://abhibundela.com/tags/</loc>
+        <loc>http://localhost:1313/tags/</loc>
         <lastmod>2018-04-10T00:00:00+00:00</lastmod>
       </url>
     

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning on Learn Build &amp; Break!</title>
-    <link>https://abhibundela.com/tags/learning/</link>
+    <link>http://localhost:1313/tags/learning/</link>
     <description>Recent content in Learning on Learn Build &amp; Break!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-      <atom:link href="https://abhibundela.com/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="http://localhost:1313/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
         <title>Little experience in bugbounty hunting</title>
-        <link>https://abhibundela.com/2017/06/19/little-experience-in-bugbounty-hunting/</link>
+        <link>http://localhost:1313/2017/06/19/little-experience-in-bugbounty-hunting/</link>
         <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
-        <guid>https://abhibundela.com/2017/06/19/little-experience-in-bugbounty-hunting/</guid>
+        <guid>http://localhost:1313/2017/06/19/little-experience-in-bugbounty-hunting/</guid>
         <description>Hello friends, hope you are doing well. Yesterday, I had gone for LinuxChix india meetup. I found some people interested in magic the bugbounty hunters do in finding the security loopholes. So I am sharing some resources as well as my experience. Oh, let me introduce myself, My name is Abhishek Bundela, undergraduate from Shri Mata Vaishno Devi University. I do bugbounty for the feeling of excitement and of course, for the cash.</description>
       </item>
     
