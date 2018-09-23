@@ -10,7 +10,37 @@
   
     
       <url>
+        <loc>https://abhibundela.com/2018/04/03/hey-organisations-dont-underestimate-dmarc-policy/</loc>
+        <lastmod>2018-04-03T00:00:00+00:00</lastmod>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://abhibundela.com/2017/06/19/little-experience-in-bugbounty-hunting/</loc>
+        <lastmod>2017-06-19T00:00:00+00:00</lastmod>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://abhibundela.com/tags/bugbounty/</loc>
+        <lastmod>2018-04-10T00:00:00+00:00</lastmod>
+        <priority>0</priority>
+      </url>
+    
+  
+    
+      <url>
         <loc>https://abhibundela.com/categories/</loc>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://abhibundela.com/tags/dmarc/</loc>
+        <lastmod>2018-04-03T00:00:00+00:00</lastmod>
+        <priority>0</priority>
       </url>
     
   
@@ -18,6 +48,14 @@
       <url>
         <loc>https://abhibundela.com/</loc>
         <lastmod>2018-04-10T00:00:00+00:00</lastmod>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://abhibundela.com/tags/learning/</loc>
+        <lastmod>2017-06-19T00:00:00+00:00</lastmod>
+        <priority>0</priority>
       </url>
     
   
@@ -41,6 +79,7 @@
     
       <url>
         <loc>https://abhibundela.com/tags/</loc>
+        <lastmod>2018-04-10T00:00:00+00:00</lastmod>
       </url>
     
   

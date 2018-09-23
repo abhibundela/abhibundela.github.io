@@ -21,5 +21,22 @@ Recently, I published an article where I explained a flaw in google groups funct
 After submitting three N/A (won’t fix) report to Google, finally I managed to submit one valid report but unfortunately that was marked as duplicate. Thanks to Google security team, they are very responsive and allowed me to write about the vulnerability.</description>
       </item>
     
+      <item>
+        <title>Hey! Organisations don’t underestimate DMARC policy!</title>
+        <link>https://abhibundela.com/2018/04/03/hey-organisations-dont-underestimate-dmarc-policy/</link>
+        <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+        <guid>https://abhibundela.com/2018/04/03/hey-organisations-dont-underestimate-dmarc-policy/</guid>
+        <description>Hi friends,
+It has been a long time since I have written, of course I am lazy. I was desperate to find bugs in Google &amp;amp; Facebook ( at least one valid ) so I thought let’s start with Google services. We all know about Google Groups, it is a service that provides discussion groups for people sharing common interests. Google Groups have a nice feature to post on groups by sending emails.</description>
+      </item>
+    
+      <item>
+        <title>Little experience in bugbounty hunting</title>
+        <link>https://abhibundela.com/2017/06/19/little-experience-in-bugbounty-hunting/</link>
+        <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+        <guid>https://abhibundela.com/2017/06/19/little-experience-in-bugbounty-hunting/</guid>
+        <description>Hello friends, hope you are doing well. Yesterday, I had gone for LinuxChix india meetup. I found some people interested in magic the bugbounty hunters do in finding the security loopholes. So I am sharing some resources as well as my experience. Oh, let me introduce myself, My name is Abhishek Bundela, undergraduate from Shri Mata Vaishno Devi University. I do bugbounty for the feeling of excitement and of course, for the cash.</description>
+      </item>
+    
   </channel>
 </rss>

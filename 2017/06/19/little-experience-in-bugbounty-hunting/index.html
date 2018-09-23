@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Little experience in bugbounty hunting - Learn Build &amp; Break!</title>
+<meta name="author" content="Abhishek Bundela">
+<meta name="description" content="">
+
+<meta name="generator" content="Hugo 0.47.1" />
+
+
+<link href="//fonts.googleapis.com/css?family=Roboto:400" rel="stylesheet">
+<link rel="stylesheet" href='/assets/css/main.39ec5efb65b7.css'>
+
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/apple-touch-icon.png">
+<link rel="shortcut icon" href="/assets/img/favicon.ico">
+
+
+<link href="/posts/index.xml" rel="alternate" type="application/rss+xml" title="Learn Build &amp; Break!" />
+<link href="/posts/index.xml" rel="feed" type="application/rss+xml" title="Learn Build &amp; Break!" />
+
+<meta property="og:title" content="Little experience in bugbounty hunting" />
+<meta property="og:description" content="Hello friends, hope you are doing well. Yesterday, I had gone for LinuxChix india meetup. I found some people interested in magic the bugbounty hunters do in finding the security loopholes. So I am sharing some resources as well as my experience. Oh, let me introduce myself, My name is Abhishek Bundela, undergraduate from Shri Mata Vaishno Devi University. I do bugbounty for the feeling of excitement and of course, for the cash." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://abhibundela.com/2017/06/19/little-experience-in-bugbounty-hunting/" /><meta property="article:published_time" content="2017-06-19T00:00:00&#43;00:00"/>
+<meta property="article:modified_time" content="2017-06-19T00:00:00&#43;00:00"/>
+
+
+<meta itemprop="name" content="Little experience in bugbounty hunting">
+<meta itemprop="description" content="Hello friends, hope you are doing well. Yesterday, I had gone for LinuxChix india meetup. I found some people interested in magic the bugbounty hunters do in finding the security loopholes. So I am sharing some resources as well as my experience. Oh, let me introduce myself, My name is Abhishek Bundela, undergraduate from Shri Mata Vaishno Devi University. I do bugbounty for the feeling of excitement and of course, for the cash.">
+
+
+<meta itemprop="datePublished" content="2017-06-19T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2017-06-19T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="459">
+
+
+
+<meta itemprop="keywords" content="bugbounty,learning," />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Little experience in bugbounty hunting"/>
+<meta name="twitter:description" content="Hello friends, hope you are doing well. Yesterday, I had gone for LinuxChix india meetup. I found some people interested in magic the bugbounty hunters do in finding the security loopholes. So I am sharing some resources as well as my experience. Oh, let me introduce myself, My name is Abhishek Bundela, undergraduate from Shri Mata Vaishno Devi University. I do bugbounty for the feeling of excitement and of course, for the cash."/>
+
+
+  </head>
+  <body>
+    <nav>
+  <a href="/" title="Homepage">
+    Home
+  </a>
+  
+    <a class="homePageIcon" href="/" title="Homepage">
+      <svg fill="#000000" height="48" viewBox="0 0 24 24" width="48" xmlns="http://www.w3.org/2000/svg">
+        <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/>
+        <path d="M0 0h24v24H0z" fill="none"/>
+      </svg>
+    </a>
+  
+</nav>
+
+    <main>
+      
+  <div class="progress-container">
+    <div class="progress-bar"></div>
+  </div>
+  <article>
+    <header>
+      <time datetime="2017-06-19 12:00">2017-06-19</time>
+      <h1>Little experience in bugbounty hunting</h1>
+    </header>
+    <section><p>Hello friends, hope you are doing well. Yesterday, I had gone for LinuxChix india meetup. I found some people interested in magic the bugbounty hunters do in finding the security loopholes. So I am sharing some resources as well as my experience. Oh, let me introduce myself, My name is Abhishek Bundela, undergraduate from Shri Mata Vaishno Devi University. I do bugbounty for the feeling of excitement and of course, for the cash. Currently, I am learning android app testing. You can find me on <a href="https://twitter.com/abhibundela">twitter</a>. My hackerone handle is <a href="https://hackerone.com/encrypt/">encrypt</a>.</p>
+
+<p>My senior <a href="https://twitter.com/exploitprotocol">Aditya Agarwal</a> introduced me to bugbounty. Thanks sir jee. I spent 6 months testing vulnerable web apps and reading web application hacker’s handbook, owasp testing guide. After that I thought it is right time to start testing some real world applications. Weeks spent without finding single bug since I was targeting big boy (Facebook). After defeat from facebook, I selected a new program on bugcrowd. I submitted my first bug on bugcrowd to smartsheet. Yup, it was duplicate but I was happy since I got my first Hall Of Fame from smartsheet. I submitted some more bugs to others program but all were duplicate. At that point, I felt something is going wrong. I took a break from bugbounty and decided that I will submit bugs to old programs since I was submitting bugs to new programs and I was not as fast as other successful bug hunters. After some time, I started to look for some programs on hackerone. I submitted a bug to a private program on hackerone and it got accepted and they paid me $125 bounty !!! the feeling was amazing. I started digging more and more and got cool bounties. Sometime I got duplicates, I am lying if I say that dupes don’t affect me. Ya, dupes are pain but that’s how bugbounty works, sometime time defeats us. Time teaches us lesson to use our time efficiently (be accurate &amp; fast). Try to do automation as much as possible. So you don’t find yourself doing repetitive tasks.</p>
+
+<p>Time to share some resources.
+There are lot of resources about <a href="http://lmgtfy.com/?q=Bugbounty">bug bounty hunting</a> on web. I will suggest to follow cool infosecs on twitter. You will learn a lot by these smart people. These people share their bug hunting tactics, their achievements (bounties, swag, hof) and cool jokes. Something, I believe worth sharing.</p>
+
+<p>How to Build a Successful Information Security Career ? <br />
+<a href="https://danielmiessler.com/blog/build-successful-infosec-career/#gs.wARu9Ks">https://danielmiessler.com/blog/build-successful-infosec-career/#gs.wARu9Ks</a></p>
+
+<p>How to become bugbounty hunter ? <br />
+<a href="https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102">https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102</a> <br />
+<a href="https://www.quora.com/How-does-one-become-a-bug-bounty-hunter">https://www.quora.com/How-does-one-become-a-bug-bounty-hunter</a> <br />
+<a href="https://www.hackerone.com/blog/become-a-successful-bug-bounty-hunter">https://www.hackerone.com/blog/become-a-successful-bug-bounty-hunter</a></p>
+
+<p>Best Bugbounty hunter’s AMA : <a href="https://bugbountyforum.com/blogs/">https://bugbountyforum.com/blogs/</a></p>
+
+<p>What are the ways in which a bug can be discovered in bug bounty program ? <br />
+<a href="https://www.quora.com/What-are-the-ways-in-which-a-bug-can-be-discovered-in-bug-bounty-program">https://www.quora.com/What-are-the-ways-in-which-a-bug-can-be-discovered-in-bug-bounty-program</a></p>
+
+<p>Pete hacking resources : <a href="https://www.torontowebsitedeveloper.com/hacking-resources">https://www.torontowebsitedeveloper.com/hacking-resources</a></p>
+
+<p>Learn, Build and Break !!! Stay tuned for next post.</p>
+
+<p>Stay safe,</p>
+
+<p>Thanks</p>
+</section>
+    <footer>
+      <hr>
+      <div class="meta">
+        <p class="categories">
+            
+              
+              <a href="/categories/security">SECURITY</a>
+            </p>
+        <p class="tags">
+          
+            
+              <a href="/tags/bugbounty">
+                <span>#</span>bugbounty</a>
+            
+              <a href="/tags/learning">
+                <span>#</span>learning</a>
+            
+          
+        </p>
+      </div>
+      <hr>
+      <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "abhibundela" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </footer>
+  </article>
+
+    </main>
+    <footer>
+  <p>
+    &copy; 2018 Abhishek Bundela.
+  </p>
+  <p>
+    Powered by <a href="https://gohugo.io" title="A Fast and Flexible Website Generator">Hugo</a> &amp; <a href="https://github.com/eshlox/simplicity" title="Hugo theme">Simplicity</a>.
+  </p>
+</footer>
+
+    <script src="/assets/js/main.82829af440c4.js"></script>
+    
+  </body>
+</html>
