@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Learn Build &amp; Break!</title>
+    <link>https://abhibundela.com/</link>
+    <description>Recent content in Homepage on Learn Build &amp; Break!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+      <atom:link href="https://abhibundela.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>How I broke into Google Issue Tracker</title>
+        <link>https://abhibundela.com/2018/04/10/how-i-broke-into-google-issue-tracker/</link>
+        <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+        <guid>https://abhibundela.com/2018/04/10/how-i-broke-into-google-issue-tracker/</guid>
+        <description>Hi friends,
+Recently, I published an article where I explained a flaw in google groups functionality. When I submitted that vulnerability to Google I noticed that researchers can comment on the issue in issue tracker by replying to the email from buganizer system.
+After submitting three N/A (won’t fix) report to Google, finally I managed to submit one valid report but unfortunately that was marked as duplicate. Thanks to Google security team, they are very responsive and allowed me to write about the vulnerability.</description>
+      </item>
+    
+  </channel>
+</rss>
