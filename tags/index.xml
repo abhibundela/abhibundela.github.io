@@ -2,36 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Learn Build &amp; Break!</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://abhibundela.com/tags/</link>
     <description>Recent content in Tags on Learn Build &amp; Break!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Sep 2018 05:30:21 -0700</lastBuildDate>
     
-      <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://abhibundela.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
         <title>Bugbounty</title>
-        <link>http://localhost:1313/tags/bugbounty/</link>
-        <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/tags/bugbounty/</guid>
+        <link>https://abhibundela.com/tags/bugbounty/</link>
+        <pubDate>Tue, 25 Sep 2018 05:30:21 -0700</pubDate>
+        <guid>https://abhibundela.com/tags/bugbounty/</guid>
         <description></description>
       </item>
     
       <item>
         <title>Dmarc</title>
-        <link>http://localhost:1313/tags/dmarc/</link>
+        <link>https://abhibundela.com/tags/dmarc/</link>
         <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/tags/dmarc/</guid>
+        <guid>https://abhibundela.com/tags/dmarc/</guid>
         <description></description>
       </item>
     
       <item>
         <title>Learning</title>
-        <link>http://localhost:1313/tags/learning/</link>
+        <link>https://abhibundela.com/tags/learning/</link>
         <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/tags/learning/</guid>
+        <guid>https://abhibundela.com/tags/learning/</guid>
+        <description></description>
+      </item>
+    
+      <item>
+        <title>Race Conditon</title>
+        <link>https://abhibundela.com/tags/race-conditon/</link>
+        <pubDate>Tue, 25 Sep 2018 05:30:21 -0700</pubDate>
+        <guid>https://abhibundela.com/tags/race-conditon/</guid>
         <description></description>
       </item>
     

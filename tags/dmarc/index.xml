@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dmarc on Learn Build &amp; Break!</title>
-    <link>http://localhost:1313/tags/dmarc/</link>
+    <link>https://abhibundela.com/tags/dmarc/</link>
     <description>Recent content in Dmarc on Learn Build &amp; Break!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-      <atom:link href="http://localhost:1313/tags/dmarc/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://abhibundela.com/tags/dmarc/index.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
         <title>Hey! Organisations don’t underestimate DMARC policy!</title>
-        <link>http://localhost:1313/2018/04/03/hey-organisations-dont-underestimate-dmarc-policy/</link>
+        <link>https://abhibundela.com/2018/04/03/hey-organisations-dont-underestimate-dmarc-policy/</link>
         <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/2018/04/03/hey-organisations-dont-underestimate-dmarc-policy/</guid>
+        <guid>https://abhibundela.com/2018/04/03/hey-organisations-dont-underestimate-dmarc-policy/</guid>
         <description>Hi friends,
 It has been a long time since I have written, of course I am lazy. I was desperate to find bugs in Google &amp;amp; Facebook ( at least one valid ) so I thought let’s start with Google services. We all know about Google Groups, it is a service that provides discussion groups for people sharing common interests. Google Groups have a nice feature to post on groups by sending emails.</description>
       </item>

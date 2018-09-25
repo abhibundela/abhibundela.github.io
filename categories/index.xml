@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Learn Build &amp; Break!</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://abhibundela.com/categories/</link>
     <description>Recent content in Categories on Learn Build &amp; Break!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     
-      <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://abhibundela.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
         <title>Security</title>
-        <link>http://localhost:1313/categories/security/</link>
-        <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/categories/security/</guid>
+        <link>https://abhibundela.com/categories/security/</link>
+        <pubDate>Tue, 25 Sep 2018 05:30:21 -0700</pubDate>
+        <guid>https://abhibundela.com/categories/security/</guid>
         <description></description>
       </item>
     

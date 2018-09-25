@@ -25,7 +25,7 @@
 <meta property="og:description" content="Hi friends,
 It has been a long time since I have written, of course I am lazy. I was desperate to find bugs in Google &amp; Facebook ( at least one valid ) so I thought let’s start with Google services. We all know about Google Groups, it is a service that provides discussion groups for people sharing common interests. Google Groups have a nice feature to post on groups by sending emails." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/2018/04/03/hey-organisations-dont-underestimate-dmarc-policy/" /><meta property="article:published_time" content="2018-04-03T00:00:00&#43;00:00"/>
+<meta property="og:url" content="https://abhibundela.com/2018/04/03/hey-organisations-dont-underestimate-dmarc-policy/" /><meta property="article:published_time" content="2018-04-03T00:00:00&#43;00:00"/>
 <meta property="article:modified_time" content="2018-04-03T00:00:00&#43;00:00"/>
 
 
@@ -82,17 +82,17 @@ It has been a long time since I have written, of course I am lazy. I was despera
 
 <p>DMARC ( Domain Message Authentication Reporting &amp; Conformance ). It is a txt records on a DNS server. It’s task is to decide whether to accept or reject emails that fails SPF/DKIM. The unverified messages are handled according to DMARC policy.</p>
 
-<p><img src="https://cdn-images-1.medium.com/max/880/1*wOy97psZ2P6l-xKDWX238A.png" alt="Alt text" /></p>
+<p><img src="https://cdn-images-1.medium.com/max/880/1*wOy97psZ2P6l-xKDWX238A.png" alt="..." /></p>
 
 <p>The sending domain should have an SPF and DKIM record before publishing DMARC record. SPF &amp; DKIM are also txt records on a DNS server. SPF entry have list of servers that should be considered to send an email for specific domain while DKIM record is used for verifying message’s content. This is implemented by public and private key signing process. Cathy Patalas have written a nice blog about SPF &amp; DKIM, if you want to get into details check it out <a href="https://blog.woodpecker.co/cold-email/spf-dkim/">https://blog.woodpecker.co/cold-email/spf-dkim/</a>.</p>
 
 <p>I was looking for the domain that don’t have DMARC record published. I chose my college domain and looked for the records using mxtoolbox <a href="https://mxtoolbox.com/dmarc.aspx">https://mxtoolbox.com/dmarc.aspx</a>. Fortunately/Unfortunately, there were no DMARC record found in my university’s DNS. I quickly used the service of smtp2go and sent an email to myself using my friend’s email address and I got message in my inbox.</p>
 
-<p><img src="https://cdn-images-1.medium.com/max/880/1*TcvJz3wg8C3vT__26mSq6A.png" alt="Alt text" /></p>
+<p><img src="https://cdn-images-1.medium.com/max/880/1*TcvJz3wg8C3vT__26mSq6A.png" alt="..." /></p>
 
 <p>Finally, I had domain that don’t have DMARC record. For testing group functionality, I sent an email to my class Google Group using the service smtp2go. I found that Google Group allows the email from the domains that don’t have DMARC record that means an attacker can post as member using smtp service, if the email is known to the attacker.</p>
 
-<p><img src="https://cdn-images-1.medium.com/max/880/1*wXTQe_d_B1DqUqKpuOwlSg.png" alt="Alt text" /></p>
+<p><img src="https://cdn-images-1.medium.com/max/880/1*wXTQe_d_B1DqUqKpuOwlSg.png" alt="..." /></p>
 
 <p>Since this is an authentication bypass vulnerability, so I reported this to Google via their bug bounty program but they said it is an intended functionality. Now the question arises, Who is responsible for the security Organisations or Google ? I suggested a solution to Google security team.</p>
 
@@ -104,7 +104,7 @@ It has been a long time since I have written, of course I am lazy. I was despera
 
 <p>I also contacted to our college V.C. sir and told him about the vulnerability. He pointed me to the respective authority in order to fix this vulnerability. So with the help of some faculty members &amp; friends <a href="https://www.facebook.com/profile.php?id=100006911595966">Ronij</a>, <a href="https://www.facebook.com/rajat.tcp">Rajat</a> I managed to add the DMARC policy to DNS server. For confirming the fix, I sent an email using the same service smtp2go. As you can see in the below image, email delivery got failed.</p>
 
-<p><img src="https://cdn-images-1.medium.com/max/880/1*K_0I_NLamnA8lbYSpYTMZQ.png" alt="Alt text" /></p>
+<p><img src="https://cdn-images-1.medium.com/max/880/1*K_0I_NLamnA8lbYSpYTMZQ.png" alt="..." /></p>
 
 <h2 id="poc">POC</h2>
 
@@ -175,5 +175,5 @@ It has been a long time since I have written, of course I am lazy. I was despera
 
     <script src="/assets/js/main.82829af440c4.js"></script>
     
-  <script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+  </body>
 </html>

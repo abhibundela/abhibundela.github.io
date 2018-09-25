@@ -2,20 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security on Learn Build &amp; Break!</title>
-    <link>http://localhost:1313/categories/security/</link>
+    <link>https://abhibundela.com/categories/security/</link>
     <description>Recent content in Security on Learn Build &amp; Break!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Sep 2018 05:30:21 -0700</lastBuildDate>
     
-      <atom:link href="http://localhost:1313/categories/security/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://abhibundela.com/categories/security/index.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
+        <title>Exploiting an unknown vulnerability</title>
+        <link>https://abhibundela.com/2018/09/25/exploiting-an-unknown-vulnerability/</link>
+        <pubDate>Tue, 25 Sep 2018 05:30:21 -0700</pubDate>
+        <guid>https://abhibundela.com/2018/09/25/exploiting-an-unknown-vulnerability/</guid>
+        <description>I found this vulnerability around 2 months ago in a consulting application. Their security team told me this application is already pentested and they will reward bonus if I could find a vulnerability. For new targets, first I analyze application and make a data flow diagram of its functionality then I start hunting for vulnerabilities. I extensively test for logical vulnerabilities because I know from my experience that there will be some critical transitions which might have been missed by application developers or testers.</description>
+      </item>
+    
+      <item>
         <title>How I broke into Google Issue Tracker</title>
-        <link>http://localhost:1313/2018/04/10/how-i-broke-into-google-issue-tracker/</link>
+        <link>https://abhibundela.com/2018/04/10/how-i-broke-into-google-issue-tracker/</link>
         <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/2018/04/10/how-i-broke-into-google-issue-tracker/</guid>
+        <guid>https://abhibundela.com/2018/04/10/how-i-broke-into-google-issue-tracker/</guid>
         <description>Hi friends,
 Recently, I published an article where I explained a flaw in google groups functionality. When I submitted that vulnerability to Google I noticed that researchers can comment on the issue in issue tracker by replying to the email from buganizer system.
 After submitting three N/A (won’t fix) report to Google, finally I managed to submit one valid report but unfortunately that was marked as duplicate. Thanks to Google security team, they are very responsive and allowed me to write about the vulnerability.</description>
@@ -23,18 +31,18 @@ After submitting three N/A (won’t fix) report to Google, finally I managed to 
     
       <item>
         <title>Hey! Organisations don’t underestimate DMARC policy!</title>
-        <link>http://localhost:1313/2018/04/03/hey-organisations-dont-underestimate-dmarc-policy/</link>
+        <link>https://abhibundela.com/2018/04/03/hey-organisations-dont-underestimate-dmarc-policy/</link>
         <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/2018/04/03/hey-organisations-dont-underestimate-dmarc-policy/</guid>
+        <guid>https://abhibundela.com/2018/04/03/hey-organisations-dont-underestimate-dmarc-policy/</guid>
         <description>Hi friends,
 It has been a long time since I have written, of course I am lazy. I was desperate to find bugs in Google &amp;amp; Facebook ( at least one valid ) so I thought let’s start with Google services. We all know about Google Groups, it is a service that provides discussion groups for people sharing common interests. Google Groups have a nice feature to post on groups by sending emails.</description>
       </item>
     
       <item>
         <title>Little experience in bugbounty hunting</title>
-        <link>http://localhost:1313/2017/06/19/little-experience-in-bugbounty-hunting/</link>
+        <link>https://abhibundela.com/2017/06/19/little-experience-in-bugbounty-hunting/</link>
         <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/2017/06/19/little-experience-in-bugbounty-hunting/</guid>
+        <guid>https://abhibundela.com/2017/06/19/little-experience-in-bugbounty-hunting/</guid>
         <description>Hello friends, hope you are doing well. Yesterday, I had gone for LinuxChix india meetup. I found some people interested in magic the bugbounty hunters do in finding the security loopholes. So I am sharing some resources as well as my experience. Oh, let me introduce myself, My name is Abhishek Bundela, undergraduate from Shri Mata Vaishno Devi University. I do bugbounty for the feeling of excitement and of course, for the cash.</description>
       </item>
     
