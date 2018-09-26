@@ -53,13 +53,6 @@
   
     
       <url>
-        <loc>https://abhibundela.com/</loc>
-        <lastmod>2018-09-25T05:30:21-07:00</lastmod>
-      </url>
-    
-  
-    
-      <url>
         <loc>https://abhibundela.com/tags/learning/</loc>
         <lastmod>2017-06-19T00:00:00+00:00</lastmod>
         <priority>0</priority>
@@ -94,6 +87,13 @@
     
       <url>
         <loc>https://abhibundela.com/tags/</loc>
+        <lastmod>2018-09-25T05:30:21-07:00</lastmod>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://abhibundela.com/</loc>
         <lastmod>2018-09-25T05:30:21-07:00</lastmod>
       </url>
     
